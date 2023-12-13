@@ -1,0 +1,44 @@
+<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="ProductNotFound" xml:space="preserve">
+        <value>Product not found</value>
+    </data>
+    <data name="ProductAlreadyExists" xml:space="preserve">
+        <value>Product already exists</value>
+    </data>
+    <data name="ProductsNotFound" xml:space="preserve">
+        <value>Products not found</value>
+    </data>
+    <data name="CategoryNotFound" xml:space="preserve">
+        <value>Category not found</value>
+    </data>
+    <data name="ProductNotCreated" xml:space="preserve">
+        <value>Product not created</value>
+    </data>
+    <data name="ProductNotDeleted" xml:space="preserve">
+        <value>ProductNotDeleted</value>
+    </data>
+    <data name="PriceIsNotValid" xml:space="preserve">
+        <value>Price is not valid</value>
+    </data>
+    <data name="DescriptionIsNotValid" xml:space="preserve">
+        <value>Description is not valid</value>
+    </data>
+    <data name="NameIsNotValid" xml:space="preserve">
+        <value>Name is not valid</value>
+    </data>
+    <data name="InternalServerError" xml:space="preserve">
+        <value>Internal server error</value>
+    </data>
+</root>
